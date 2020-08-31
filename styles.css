@@ -1,0 +1,21 @@
+* {
+    margin:0px;
+    border: 0px;
+    padding: 0px;   
+}
+
+#wrapper  {
+    margin: auto;
+    width:970px;
+}
+ul {
+    list-style-type:none;
+    margin: auto;
+    width:500px;
+    text-align:center;
+}
+
+li {
+    margin-top:1px;
+    padding: 0px;
+}
